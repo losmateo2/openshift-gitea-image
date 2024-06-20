@@ -1,5 +1,5 @@
+apiVersion: template.openshift.io/v1
 kind: Template
-apiVersion: v1
 metadata:
   annotations:
     description: The Gitea git server (https://gitea.io/en-US/)
